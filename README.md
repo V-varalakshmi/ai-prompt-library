@@ -15,10 +15,10 @@ This is a full-stack library application to manage AI Image Generation Prompts. 
 
 > **Note to user:** Replace these placeholder links with actual screenshot images of your running application before submitting.
 
-![Prompt List View](<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/7f4a5c01-fcbd-482c-ae77-43726cc6148e" />)
+![Prompt List View] <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/7f4a5c01-fcbd-482c-ae77-43726cc6148e" />
 *Prompt List View*
 
-![Prompt Details View](<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/30032954-72b7-4afe-8fa3-a423cc8cc20a" />)
+![Prompt Details View] <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/30032954-72b7-4afe-8fa3-a423cc8cc20a" />
 *Prompt Details View*
 
 ![Add Prompt Form](<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/64bf936b-3f76-4329-a353-fbc289101694" />)
