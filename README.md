@@ -18,7 +18,7 @@ This is a full-stack library application to manage AI Image Generation Prompts. 
 ![Prompt List View](./screenshots/list_view.png)
 *Prompt List View*
 
-![Prompt Details View](./screenshots/details_view.png)
+![Prompt Details View](<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/30032954-72b7-4afe-8fa3-a423cc8cc20a" />)
 *Prompt Details View*
 
 ![Add Prompt Form](./screenshots/add_prompt.png)
